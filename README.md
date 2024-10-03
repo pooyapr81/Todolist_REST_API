@@ -16,7 +16,6 @@ source <your-fav-env-name>/bin/activate
 Install packages and run the project
 ```
 cd eshop/
-pip install -r requirements.txt
 python manage.py runserver
 ```
 
